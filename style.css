@@ -2,9 +2,11 @@ html,
 body {
     height: 100%;
     color: #000;
+    background-color: #000 !important;
 }
 .container{
     color: #666;
+    background-color: #000;
 }
 
 .content {
@@ -62,16 +64,6 @@ h1 {
     position: relative;
 }
 
-.background2 {
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    background-image: url(Images/background.svg);
-    background-repeat: no-repeat;
-    background-position: left top;
-    background-size: auto 100vh;
-}
-
 .container-fluid {
     padding-left: 0px;
     padding-right: 0px;
@@ -95,13 +87,19 @@ h1 {
 
 @media (max-width: 767px) {
     .logo {
-        padding-top: 48px;
+        margin-top: 48px;
     }
 }
 .logo {
     /*padding-bottom: 20px;*/
     border-radius: 50%;
 }
+@media (min-width: 768px) {
+    .d-flex {
+        display: block !important;
+    }
+}
+
 .social-icon {
     transition: 0.2s;
     text-decoration: none;
