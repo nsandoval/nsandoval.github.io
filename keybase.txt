@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/nsandoval
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nsandoval.github.io
+  * I am nsandoval (https://keybase.io/nsandoval) on keybase.
+  * I have a public key with fingerprint C22B 1A74 D508 C81C 8AE9  E2B6 2F1D 59B3 9D3E 5FE0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b505c7d8fbee7ea66983f5c494dd42f3e370d7629e28400745b8ce219bfaa0c20a",
+      "fingerprint": "c22b1a74d508c81c8ae9e2b62f1d59b39d3e5fe0",
+      "host": "keybase.io",
+      "key_id": "2f1d59b39d3e5fe0",
+      "kid": "010167cb1b80b884b8fc3cf9c268f16d0348de8cd417a5aac47dfc2ca5fcfc3d725b0a",
+      "uid": "b220ec5d997d85d9bfee0cf5640dfd19",
+      "username": "nsandoval"
+    },
+    "service": {
+      "hostname": "nsandoval.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1611080141,
+  "expire_in": 157680000,
+  "prev": "7be2e137cac37e399caa1ca6007ce94fc9ed4c5d91140c250e0a1b5494c0bc2f",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJpTBxlGF6QQ6jlsJgCdUkcMYqudM6dmTVF2yqngUJttBRZ5vvmm90J
+dGfYXaCIGGhNm5SWs6UNR8W0JZEeCQVsIBHYgokNLVdVRCkIURqpkDZuDzEkzqD9
+Y/z+vPnePM/zPu8xvPEpQ7DPVuPertYE688+I562IkNe4As3yzCgiKWYpQzLR+sB
+FYjI5bbmyyJmwXCCxAGDM5AVOQkgxCLBbOY5SmIgzdOiSJMShSgWF1kzySOSo3Gc
+pRnAQUQSPJAEAYckLmAmTJIdNuRUnbLDrclCkgSEwNIig3OQIyAnII0NzKREiAwP
+KF6kECMhXCPaFZfO0MwBwYXiZUXLaR/rur3/wT/xjRNmFgICcDjgOBpwEqSgxEPS
+zEmEWcQpmhMRB0WaYAVGECDNihIkocBIUEOKLMmAdd9F63KAJHEEGZHntTloAUgI
+4VBizDQuSiLB60AXcjqE/UhDO1yCQ1SKhQKs3IRp6WIZIn2yeiv/hcTbZLe9CPzT
+l+pU3ApUCjSA3e1WXRZdwF2q6owSBKz/almB7BC1eWqMYuR0yYoDsxAaErplXZww
+EwTO4QRNmDB0QJWdyCrrCIY1c7j29DqoWJNkASIRQbFQgBSLKJ6HgkBAwaztECKe
+liCPRFrvmiBobY8MjnCBAIy2eIgDSEqY3l2hQ9FLaj4Fm6bpkm0OwV3kRFj5NU+O
+n8En2BDg76sfmiE4KOzJ+QWkhRm+C+WqdkXeL5u51+39qG/TD2f+OhN9KiliKjk7
+bfV2ckjYqNrQ/MGtc7Fy58rQ8Kravpb2yTHDr99WHz00PVBfyLRIx4PHp3bHENSG
+2qKPBy2hr7S+usWuzFre29z7+c3TeZ6Rnj1Xbu/OjFLDEiz3DkdmuDptB5vB/FDN
+dd/hqobfvC9NqMRAY2KtEjgfN/NWuC2hey66t11Of3Y5zzuszKWHzE4aK9627lm5
+uqMnf9/ah/4P9j1avPN40tpMR9X8OJq+XBVjbdw+VTn2bn2KMfNC98XphlBKff6R
+u8kUXuf42hS7NHP+RsmJygulyun0T2uSa03TWVLcL2sdAakjy7GJbtM1T0Pt9rPN
+Bzveaaw+0j9U0v9+3eS27y8nHLHk3QnCxLtxhqjqamfKN5v9fdWsk67XchRjhvHE
+0mevt34xmLv3cFf9gQWz3f7izv13U7GFcnU1daV3fPH+mt/S1La2Usqb24TT9mn/
+nSmnQjwhPcttbVcnsktvbVr06Wr0Xm95gPWHVvx+biIaJIW/cbwvJ/r8xQmsAzzM
+L4wdTXjOb8Eyln4pN6O18c/h9qG+2IIF34DswKifQohDl1NfvnJpozAfscUSOTlZ
+saNuw9OpQWPxETGz3QNJWYNNX3mPvkk9PCmOjc/c6POf2xWaebbycWd7jy1k65ee
+2hbjHzndPcnTic/E/A0oTcS/
+=Yp0j
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nsandoval
+
+==================================================================
